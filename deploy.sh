@@ -12,7 +12,7 @@ main() {
 	default_email=${GIT_DEPLOY_EMAIL:-ningsuhen@gmail.com}
 
 	#repository to deploy to. must be readable and writable.
-	repo=${GIT_DEPLOY_REPO:-ningsuhen.github.io}
+	repo=${GIT_DEPLOY_REPO:-devhacks.github.io}
 
 	# Parse arg flags
 	while : ; do
@@ -43,7 +43,7 @@ main() {
 		return 1
 	fi
 
-	if [[ -z `ls --almost-all "$deploy_directory" 2> /dev/null` && -z $allow_empty ]]; then
+	if [[ -z `ls -A "$deploy_directory" 2> /dev/null` && -z $allow_empty ]]; then
 		echo "Deploy directory '$deploy_directory' is empty. Aborting. If you're sure you want to deploy an empty tree, use the --allow-empty / -e flag." >&2
 		return 1
 	fi
