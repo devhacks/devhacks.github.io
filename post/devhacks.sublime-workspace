@@ -1,0 +1,1486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Con",
+				"ConsoleProxy〔variable〕"
+			],
+			[
+				"Pr",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"pr",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"Li",
+				"ListenAndServe	error ƒ"
+			],
+			[
+				"inc",
+				"incrementCheerCount"
+			],
+			[
+				"logg",
+				"loggedInUser〔argument〕"
+			],
+			[
+				"currentUser",
+				"currentUserId〔variable〕"
+			],
+			[
+				"remote",
+				"remoteMethod"
+			],
+			[
+				"prin",
+				"principalId"
+			],
+			[
+				"modelIns",
+				"modelInstance〔argument〕"
+			],
+			[
+				"with",
+				"width	Attr"
+			],
+			[
+				"ac",
+				"activities"
+			],
+			[
+				"move",
+				"movementActivities"
+			],
+			[
+				"print",
+				"Printf"
+			],
+			[
+				"monitor",
+				"monitoring"
+			],
+			[
+				"web",
+				"webproxies"
+			],
+			[
+				"yam",
+				"yamlString"
+			],
+			[
+				"file",
+				"files〔argument〕"
+			],
+			[
+				"error",
+				"error_reporting〔function〕"
+			],
+			[
+				"k",
+				"kDefaultTint"
+			],
+			[
+				"REmo",
+				"RemoveGloss64"
+			],
+			[
+				"locat",
+				"location"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"fb",
+				"FBGraphUser"
+			],
+			[
+				"fbGra",
+				"fbGraphUser"
+			],
+			[
+				"addOperatio",
+				"addOperationWithBlock"
+			],
+			[
+				"NSOPer",
+				"NSOperationQueue"
+			],
+			[
+				"generate",
+				"generateSmartGroups"
+			],
+			[
+				"re",
+				"getRecordID"
+			],
+			[
+				"exi",
+				"existingPerson"
+			],
+			[
+				"ex",
+				"existingPerson"
+			],
+			[
+				"get",
+				"getFullName"
+			],
+			[
+				"full",
+				"fullName"
+			],
+			[
+				"inde",
+				"indexPath"
+			],
+			[
+				"Defa",
+				"kDefaultAvatar"
+			],
+			[
+				"chec",
+				"checkboxSelected"
+			],
+			[
+				"Dumm",
+				"DummyTableCell"
+			],
+			[
+				"righ",
+				"RightToLeft"
+			],
+			[
+				"check",
+				"checkboxButton"
+			],
+			[
+				"dup",
+				"dupeRecordId"
+			],
+			[
+				"tar",
+				"targetRecordId"
+			],
+			[
+				"address",
+				"swiftAddressBook"
+			],
+			[
+				"duplicate",
+				"duplicateRecordId"
+			],
+			[
+				"duplicateRec",
+				"duplicateRecordMap"
+			],
+			[
+				"Me",
+				"MergeLeft"
+			],
+			[
+				"te",
+				"text_colour_id"
+			],
+			[
+				"co",
+				"colour_id"
+			],
+			[
+				"colo",
+				"colour_id"
+			],
+			[
+				"o",
+				"oldMoz"
+			],
+			[
+				"tree",
+				"treepie"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"nde",
+				"node_modules"
+			],
+			[
+				"node",
+				"node_modules"
+			],
+			[
+				"for",
+				"forever"
+			],
+			[
+				"sta",
+				"stage"
+			],
+			[
+				"stag",
+				"staging"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/ningsuhen/git/devhacks.github.io/start",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "first-post.md",
+			"settings":
+			{
+				"buffer_size": 134,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ningsuhen/git/devhacks.github.io/config.toml",
+			"settings":
+			{
+				"buffer_size": 2523,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+				"JSON"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"qiu",
+				"Git: Quick Commit"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"QUi",
+				"Git: Quick Commit"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"Qui",
+				"Git: Quick Commit"
+			],
+			[
+				"Quic",
+				"Git: Quick Commit"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package",
+				"Package Control: List Packages"
+			],
+			[
+				"add..",
+				"Git: Add..."
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"giti",
+				"Gitignore: New gitignore"
+			],
+			[
+				"add.",
+				"Git: Add..."
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"add...",
+				"Git: Add..."
+			],
+			[
+				"add ..",
+				"Git: Add..."
+			],
+			[
+				"statsu",
+				"Git: Status"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git:add",
+				"Git: Add..."
+			],
+			[
+				"stats",
+				"Git: Status"
+			],
+			[
+				"gitignore",
+				"Gitignore: New gitignore"
+			],
+			[
+				"",
+				"Git: Commit"
+			],
+			[
+				"git:ad",
+				"Git: Add..."
+			],
+			[
+				"git gutter",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"git gutt",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"focus",
+				"Focus File on Sidebar"
+			],
+			[
+				"Focus",
+				"Focus File on Sidebar"
+			],
+			[
+				"Colo",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ningsuhen/git/devhacks.github.io",
+		"/Users/ningsuhen/git/devhacks.github.io/content/post"
+	],
+	"file_history":
+	[
+		"/Users/ningsuhen/git/devhacks.github.io/content/about.md",
+		"/Users/ningsuhen/git/devhacks.github.io/layouts/.keep",
+		"/Users/ningsuhen/git/devhacks.github.io/start",
+		"/Users/ningsuhen/git/devhacks.github.io/deploy.sh",
+		"/Users/ningsuhen/git/devhacks.github.io/content/post/first-post.md",
+		"/Users/ningsuhen/git/devhacks.github.io/.gitmodules",
+		"/Users/ningsuhen/git/devhacks.github.io/.gitignore",
+		"/Users/ningsuhen/git/devhacks.github.io/public/.keep",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/static/font-awesome/css/font-awesome.min.css",
+		"/Users/ningsuhen/git/devhacks.github.io/static/.keep",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/social.html",
+		"/Users/ningsuhen/git/devhacks.github.io/config.toml",
+		"/Users/ningsuhen/git/devhacks.github.io/data/l10n.toml",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/theme.toml",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/profile.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/exampleSite/config.toml",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/single_article.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/README.md",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/sidebar.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/index.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/LICENSE.md",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/CHANGELOG.md",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/exampleSite/data/l10n.toml",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/exampleSite/static/banners/placeholder.png",
+		"/Users/ningsuhen/git/clrs/build/views/about.erb",
+		"/Users/ningsuhen/git/clrs/about.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/icarus/layouts/partials/article_header.html",
+		"/Users/ningsuhen/git/clrs/Gemfile",
+		"/Users/ningsuhen/git/clrs/config.ru",
+		"/Users/ningsuhen/git/clrs/target/bin/02/problems/01",
+		"/Users/ningsuhen/git/clrs/target/.gitignore",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/plugins/cordova-plugin-console/src/browser/ConsoleProxy.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/plugins/cordova-plugin-console/www/console-via-logger.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/platforms/browser/www/cordova.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/plugins/cordova-plugin-console/www/logger.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/plugins/com.dooble.phonertc/src/browser/PhoneRTCProxy.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/platforms/browser/www/plugins/cordova-plugin-console/www/logger.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/platforms/browser/www/plugins/cordova-plugin-console/src/browser/ConsoleProxy.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/plugins/cordova-plugin-console/plugin.xml",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/plugins/com.dooble.phonertc/plugin.xml",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/www/index.html",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/www/scripts/signaling.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/www/scripts/ContactsCtrl.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/www/scripts/CallCtrl.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/plugins/cordova-plugin-console/src/ios/CDVLogger.m",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/plugins/cordova-plugin-console/src/ubuntu/console.cpp",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/plugins/cordova-plugin-console/tests/tests.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/config.xml",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/platforms/browser/platform_www/cordova.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/platforms/browser/platform_www/cordova-js-src/exec.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/plugins/com.dooble.phonertc/www/phonertc.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/plugins/cordova-plugin-console/src/wp/DebugConsole.cs",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/platforms/android/AndroidManifest.xml",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/platforms/android/build.gradle",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/platforms/android/gradlew",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/platforms/android/project.properties",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/platforms/android/settings.gradle",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/hooks/after_prepare/010_add_platform_class.js",
+		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/platforms/android/res/xml/config.xml",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/platforms/android/res/values/strings.xml",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/app/index.html",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/www/libs/socket.io.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/app/scripts/signaling.js",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/.bowerrc",
+		"/Users/ningsuhen/git/phonertc-ionic-latest/bower.json",
+		"/Users/ningsuhen/git/IonicApp/www/index.html",
+		"/Users/ningsuhen/git/IonicApp/gulpfile.js",
+		"/Users/ningsuhen/git/IonicApp/package.json",
+		"/Users/ningsuhen/Downloads/percolation/src/stanford/wp-config.php",
+		"/Users/ningsuhen/Downloads/percolation/src/stanford/index (1).php",
+		"/Users/ningsuhen/Downloads/percolation/src/stanford/index (2).php",
+		"/Users/ningsuhen/Downloads/percolation/src/stanford/index (3).php",
+		"/Users/ningsuhen/Downloads/percolation/src/stanford/wp-config (1).php",
+		"/Users/ningsuhen/Downloads/percolation/src/stanford/index.php",
+		"/Users/ningsuhen/Downloads/Equation 22.tex",
+		"/Users/ningsuhen/Downloads/Equation 23.tex",
+		"/Users/ningsuhen/Downloads/Equation 24.tex",
+		"/Users/ningsuhen/Downloads/Equation 20.tex",
+		"/Users/ningsuhen/Desktop/machine-learning-ex2/ex2/costFunctionReg.m",
+		"/Users/ningsuhen/Desktop/machine-learning-ex1/ex1/computeCostMulti.m",
+		"/Users/ningsuhen/Downloads/Equation 15.tex",
+		"/Users/ningsuhen/Downloads/Equation 16.tex",
+		"/Users/ningsuhen/Downloads/Equation 17.tex",
+		"/Users/ningsuhen/Downloads/Equation 18.tex",
+		"/Users/ningsuhen/Downloads/Equation 19.tex",
+		"/Users/ningsuhen/Downloads/Equation 21.tex",
+		"/Users/ningsuhen/Downloads/machine-learning-ex4/ex4/nnCostFunction.m",
+		"/Users/ningsuhen/Desktop/machine-learning-ex2/ex2/costFunction.m",
+		"/Users/ningsuhen/Desktop/migrate.js",
+		"/Users/ningsuhen/Desktop/machine-learning-ex1/ex1/ex1data1.txt",
+		"/Users/ningsuhen/git/test/package.json",
+		"/var/folders/p7/2gcg473d4q5221kn2_z6sw7w0000gn/T/sublime-sftp-browse-1439127653/Rundeck Proxylists.me/var/rundeck/projects/Proxylists.me/etc/resources.yaml",
+		"/Users/ningsuhen/git/loopback-component-push/lib/push-connector.js",
+		"/Users/ningsuhen/git/loopback-component-push/lib/push-manager.js",
+		"/Users/ningsuhen/Desktop/EQGDHIHD8ZEDI.2015-08-06-06.47def336",
+		"/Users/ningsuhen/git/walkon/common/models/movement.js",
+		"/Users/ningsuhen/Desktop/swagger.json",
+		"/Users/ningsuhen/Documents/KloudBlocks/Features.md",
+		"/Users/ningsuhen/Downloads/var/log/nginx/access.log",
+		"/Users/ningsuhen/Downloads/var/log/nginx/rotated/access.log1437642061",
+		"/Users/ningsuhen/Downloads/var/log/nginx/rotated/access.log1437638461",
+		"/Users/ningsuhen/Downloads/var/log/nginx/rotated/access.log1437634861",
+		"/Users/ningsuhen/Downloads/var/log/nginx/rotated/access.log1437631261",
+		"/Users/ningsuhen/Downloads/var/log/nginx/rotated/access.log1437627661",
+		"/Applications/Popcorn-Time.app/Contents/Resources/app.nw/src/app/settings.js",
+		"/Users/ningsuhen/stage/server.js",
+		"/Users/ningsuhen/test.js",
+		"/Users/ningsuhen/temp.dat",
+		"/Users/ningsuhen/git/gocode/src/github.com/ningsuhen/gocode/main.go",
+		"/Users/ningsuhen/git/better-faster-elastic-beanstalk/40config_deploy.sh",
+		"/Users/ningsuhen/git/better-faster-elastic-beanstalk/05update_docker.sh",
+		"/Users/ningsuhen/git/better-faster-elastic-beanstalk/01app_build.sh",
+		"/Users/ningsuhen/git/better-faster-elastic-beanstalk/20clean.sh",
+		"/Users/ningsuhen/git/better-faster-elastic-beanstalk/10stop.sh",
+		"/Users/ningsuhen/git/better-faster-elastic-beanstalk/46update_geolitecity.sh",
+		"/Users/ningsuhen/git/myapp/hello.go",
+		"/Users/ningsuhen/Desktop/-.js",
+		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/ningsuhen/git/gocode/myproject.sublime-project",
+		"/Users/ningsuhen/git/gocode/gocode.sublime-project",
+		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-build-old",
+		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-commands",
+		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-build"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/ningsuhen/git/devhacks.github.io",
+			"/Users/ningsuhen/git/phonertc-ionic-latest",
+			"/Users/ningsuhen/git/walkon",
+			"/Users/ningsuhen/git/walkon-webapp/src/app/views",
+			"/Users/ningsuhen/git/walkon-webapp/src/**/*.html",
+			"/Users/ningsuhen/git/walkon-webapp/src",
+			"/Users/ningsuhen/git/better-faster-elastic-beanstalk",
+			"/Users/ningsuhen/git/django-affiliate",
+			"/Users/ningsuhen/git/django-affiliate/affiliate",
+			"/Users/ningsuhen/Sites/99proxysites",
+			"/Users/ningsuhen/Sites/proxylists",
+			"/Users/ningsuhen/Sites/proxy/themes",
+			"/Users/ningsuhen/git/NewPhonebook",
+			"/Users/ningsuhen/git/NewPhonebook/**/*.swift",
+			"/Users/ningsuhen/git/NewPhonebook/NewPhonebook/*.swift",
+			"/Users/ningsuhen/git/NewPhonebook/NewPhonebook",
+			"/Users/ningsuhen/Sites/newphonebook",
+			"/Users/ningsuhen/git/NewPhonebook",
+			"/Users/ningsuhen/git/SuperContacts",
+			"/Users/ningsuhen/git/NewPhonebook",
+			"/Users/ningsuhen/git/SuperContacts",
+			"/Users/ningsuhen/git/proxylist-addons",
+			"/Users/ningsuhen/git/proxylist-addons/src/lib",
+			"/Users/ningsuhen/git/proxylist-addons",
+			"/Users/ningsuhen/git/proxylist-addons/ff",
+			"/Users/ningsuhen/git/proxylist-addons/ff/chrome/content",
+			"/Users/ningsuhen/git/capper",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".Site.Social",
+			"master",
+			"fa-stack",
+			"fa-stackoverflow",
+			".Site.Social",
+			"social",
+			"logWithArgs",
+			"Console",
+			"browser",
+			"video",
+			"drawable",
+			"bower_components",
+			"bigint",
+			"\\n",
+			"http://fiddle.jshell.net/_display",
+			"\\n",
+			"POST /v1/invitations/",
+			"invitations/",
+			"invitations",
+			"invitations/",
+			"\\n",
+			"APA91bHUgnPhvc6TaX8j7D_qyEbdF_kz3SvPXKxmNZ30On7wyISf96s816Uppc68tIktiVSfBh4Nsc2WWijnq7wZQxgeOQBOkIne4Hw2qRRTgJ_gUNKZeY8ZXZfRpAgvVZMFP9kKRS3D",
+			"\"push\"",
+			"NQueens",
+			"ERROR before currentUser.fitness.update",
+			".*movementChanges.*5586566f44f33920007cf9bf.*",
+			"movementChanges.*5586566f44f33920007cf9bf",
+			"membershipChanges.*558bf7a339c24b190088c710",
+			"5586566f44f33920007cf9bf",
+			"gs9o_build",
+			"ctx.instance",
+			"roleIdToUserMap",
+			"currentUser",
+			"currentUser =",
+			"accessToken",
+			"roleToRemove",
+			"rolesToRemove",
+			"USER",
+			"findById",
+			"flushing",
+			"_flushing",
+			"fromDatabase",
+			"|",
+			"date",
+			"| date ",
+			"Movement.activities",
+			"activities.",
+			"toastr",
+			"all:",
+			"Activity",
+			"discriminator",
+			"targetType",
+			"networkFailed",
+			"root",
+			"NGINX_VER",
+			"npm update",
+			"logging",
+			"django.db.models.loading",
+			"relish",
+			"pillow",
+			"member",
+			" - ",
+			"proxy-server",
+			"tags: \"\"",
+			"cacert",
+			"99proxy",
+			"complete",
+			"\\n",
+			"walkon-dev",
+			"callbackPath",
+			"customCallback",
+			"options.json",
+			"authorizationCode\n",
+			"tokens",
+			"relation",
+			"1ms",
+			"  ",
+			"\\n",
+			"index.php",
+			"canonical",
+			"\">",
+			"<link rel=\"stylesheet\" href=\"",
+			"plugins",
+			"TODO",
+			"\\n\\n\\n",
+			" Delete Delete",
+			" Copy Copy",
+			"Edit Edit",
+			".key",
+			"/var/folders",
+			"descriptionIcon",
+			"Name & ",
+			"\\biCloud\\b",
+			"iCloud",
+			"graphObject.",
+			"shared_filled",
+			"Address",
+			"\".*\"",
+			"logo",
+			"Jesis",
+			"comments",
+			": \"",
+			"userreport",
+			"Documents/goog",
+			"052f66bb-8366-e9ed-b056-95094e25c79e++505",
+			"Documents/google",
+			"launchScreen",
+			"xcuser",
+			"ThirdParty",
+			"google",
+			"userdata",
+			"NewPhoneBook",
+			"SuperContacts",
+			"RemoveGlo",
+			"CleanGloss",
+			"Clean",
+			"MergeGloss",
+			"IconSet.",
+			"showSearchSavedAlert",
+			"saved",
+			"[NSValue valueWithCGRect:(CGRect){",
+			"@{",
+			"@\"",
+			"SCABManager.sharedInstance",
+			"generateSmartGroups",
+			"split",
+			"public_profile",
+			"convertToDictionary"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			".Site.Params.social",
+			".Site.Params.Social",
+			"lib",
+			"int",
+			"','",
+			" http://www3.cs.stonybrook.edu/~algorith/video-lectures",
+			" ",
+			"Solution",
+			"members",
+			"\\t",
+			"'proxy-server'",
+			"tags: \"proxy-server\"",
+			":00\\n",
+			" ",
+			"",
+			"',",
+			"'",
+			"\\n",
+			"",
+			" ",
+			"",
+			"NewPhonebook",
+			"NewPhoneBook",
+			"location?",
+			"fbGraphUser",
+			"",
+			"as",
+			"\"]",
+			"[\"",
+			"dummyRecordIds",
+			"mergeProperty",
+			"mergeMultiDateTimeProperty",
+			"mergeMultiDictionaryProperty",
+			"mergeMultiDateTimeProperty",
+			"mergeMultiStringProperty",
+			"mergeStringProperty",
+			"",
+			"Treepie",
+			"",
+			"']",
+			"]\\n['",
+			"\\n",
+			"\"./node_modules/.bin/forever -o #{deploy_to}/current/log/application.log -e #{deploy_to}/current/log/error.log -a\"",
+			"MEUserService"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/ningsuhen/git/devhacks.github.io/start",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"function_name_status_row": 0,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "first-post.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"function_name_status_row": 0,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/ningsuhen/git/devhacks.github.io/config.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1254,
+								1259
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"function_name_status_row": 51,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/TOML/TOML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Applications/Sublime Text.app/Contents/MacOS":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/ningsuhen/Gists":
+	{
+		"height": 333.0
+	},
+	"output.9o:///Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/GoSublime":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/ningsuhen/git/gocode":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/ningsuhen/git/gocode/src/github.com/ningsuhen/gocode":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/ningsuhen/git/gonlp":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.package_dev":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/GoSublime/GoSublime.sublime-build",
+	"project": "devhacks.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"first",
+				"devhacks.github.io/content/post/first-post.md"
+			],
+			[
+				"firs",
+				"devhacks.github.io/content/post/first-post.md"
+			],
+			[
+				"social",
+				"devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/social.html"
+			],
+			[
+				"cheer",
+				"common/models/cheer.js"
+			],
+			[
+				"activi",
+				"common/models/activity.js"
+			],
+			[
+				"cheer.",
+				"common/models/cheer.js"
+			],
+			[
+				"daily",
+				"common/models/daily-summary.js"
+			],
+			[
+				"user.js",
+				"common/models/user.js"
+			],
+			[
+				"jobs.",
+				"server/lib/jobs.js"
+			],
+			[
+				"user.json",
+				"common/models/user.json"
+			],
+			[
+				"server",
+				"server/server.js"
+			],
+			[
+				"movemen",
+				"common/models/movement.json"
+			],
+			[
+				"member",
+				"common/models/membership.json"
+			],
+			[
+				"model",
+				"server/model-config.json"
+			],
+			[
+				"image.js",
+				"common/models/image.js"
+			],
+			[
+				"storage",
+				"node_modules/loopback-component-storage/lib/storage-handler.js"
+			],
+			[
+				"local.js",
+				"server/datasources.local.js"
+			],
+			[
+				"dao.js",
+				"node_modules/loopback-datasource-juggler/lib/dao.js"
+			],
+			[
+				"movements",
+				"src/app/Movements/controllers/Movements-controller.js"
+			],
+			[
+				"index.js",
+				"src/app/index.js"
+			],
+			[
+				"lbs",
+				"src/app/services/lb-services.js"
+			],
+			[
+				"movementde",
+				"src/app/Movements/controllers/MovementDetails-controller.js"
+			],
+			[
+				"movem",
+				"src/app/views/movement_details.html"
+			],
+			[
+				"edit",
+				"public/modules/users/dialogs/edit-profile-pic-dialog.html"
+			],
+			[
+				"include",
+				"lib/include.js"
+			],
+			[
+				"include.js",
+				"lib/include.js"
+			],
+			[
+				"include.test",
+				"test/include.test.js"
+			],
+			[
+				"usertab",
+				"app/database/seeds/UserTableSeeder.php"
+			],
+			[
+				"database.php",
+				"app/config/local/database.php"
+			],
+			[
+				"ads.json",
+				"themes/proxylists/ads.json.php"
+			],
+			[
+				"ads.js",
+				"themes/proxylists/ads.js.php"
+			],
+			[
+				"ads.jso",
+				"themes/proxylists/ads.json.php"
+			],
+			[
+				"sign",
+				"themes/proxylists/signup.php"
+			],
+			[
+				"signup",
+				"themes/proxylists/signup.php"
+			],
+			[
+				"singup",
+				"includes/SignUpHelper.php"
+			],
+			[
+				"rsyn",
+				"rsync-excludes.txt"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"singup.",
+				"themes/proxylists/signup.php"
+			],
+			[
+				"singuph",
+				"includes/SignUpHelper.php"
+			],
+			[
+				"settings",
+				"settings.php"
+			],
+			[
+				"favorite",
+				"NewPhonebook/Controllers/FavoritesViewController.swift"
+			],
+			[
+				"prefer",
+				"NewPhonebook/NewPhonebook/Lib/Preferences.swift"
+			],
+			[
+				"mainta",
+				"NewPhonebook/NewPhonebook/Controllers/MainTabBarController.swift"
+			],
+			[
+				"launch",
+				"NewPhonebook/Base.lproj/LaunchScreen.xib"
+			],
+			[
+				"contac",
+				"SuperContacts/Controllers/ContactsViewController.swift"
+			],
+			[
+				"const",
+				"SuperContacts/Lib/Constants.swift"
+			],
+			[
+				"root",
+				"SuperContacts/Settings.bundle/Root.plist"
+			],
+			[
+				"dummysc",
+				"SuperContacts/Controllers/DummyContactsViewController.swift"
+			],
+			[
+				"cons",
+				"SuperContacts/Lib/Constants.swift"
+			],
+			[
+				"mergevi",
+				"SuperContacts/Controllers/MergeViewController.swift"
+			],
+			[
+				"setting",
+				"SuperContacts/Controllers/SettingsViewController.swift"
+			],
+			[
+				"group",
+				"SuperContacts/Controllers/GroupsViewController.swift"
+			],
+			[
+				"contacts",
+				"SuperContacts/Controllers/ContactsViewController.swift"
+			],
+			[
+				"maint",
+				"SuperContacts/Controllers/MainTabBarController.swift"
+			],
+			[
+				"brid",
+				"SuperContacts/SuperContacts-Bridging-Header.h"
+			],
+			[
+				"scabm",
+				"SuperContacts/Lib/SCABManager.swift"
+			],
+			[
+				"duplica",
+				"SuperContacts/Lib/Operations/DuplicateScanOperation.swift"
+			],
+			[
+				"back",
+				"SuperContacts/Controllers/BackupViewController.swift"
+			],
+			[
+				"conta",
+				"SuperContacts/Controllers/ContactsViewController.swift"
+			],
+			[
+				"gorup",
+				"SuperContacts/Controllers/GroupsViewController.swift"
+			],
+			[
+				"login",
+				"SuperContacts/Controllers/LoginViewController.swift"
+			],
+			[
+				"modele",
+				"SuperContacts/ModelExtensions.swift"
+			],
+			[
+				"scsear",
+				"SuperContacts/Models/SCSearch.swift"
+			],
+			[
+				"scab",
+				"SuperContacts/Lib/SCABManager.swift"
+			],
+			[
+				"consta",
+				"SuperContacts/Lib/Constants.swift"
+			],
+			[
+				"duplicate",
+				"SuperContacts/Lib/Operations/DuplicateScanOperation.swift"
+			],
+			[
+				"dummysca",
+				"SuperContacts/Lib/Operations/DummyScanOperation.swift"
+			],
+			[
+				"cdmode",
+				"SuperContacts/CDModelManager.swift"
+			],
+			[
+				"customtable",
+				"SuperContacts/Views/CustomTableCells.swift"
+			],
+			[
+				"dummyscan",
+				"SuperContacts/Lib/Operations/DummyScanOperation.swift"
+			],
+			[
+				"dumm",
+				"SuperContacts/Views/DummyTableCell.swift"
+			],
+			[
+				"custom",
+				"SuperContacts/Views/CustomTableCells.swift"
+			],
+			[
+				"customtab",
+				"SuperContacts/Views/CustomTableCells.swift"
+			],
+			[
+				"mergeview",
+				"SuperContacts/Controllers/MergeViewController.swift"
+			],
+			[
+				"root.p",
+				"SuperContacts/Settings.bundle/Root.plist"
+			],
+			[
+				"root.plist",
+				"SuperContacts/Settings.bundle/Root.plist"
+			],
+			[
+				"setti",
+				"SuperContacts/Controllers/SettingsViewController.swift"
+			],
+			[
+				"resto",
+				"SuperContacts/Controllers/RestoreViewController.swift"
+			],
+			[
+				"tool",
+				"SuperContacts/Controllers/ToolsTableViewController.swift"
+			],
+			[
+				"merge",
+				"SuperContacts/Controllers/MergeViewController.swift"
+			],
+			[
+				"dummy",
+				"SuperContacts/Controllers/DummyContactsViewController.swift"
+			],
+			[
+				"backu",
+				"SuperContacts/Controllers/BackupViewController.swift"
+			],
+			[
+				"models",
+				"SuperContacts/ModelExtensions.swift"
+			],
+			[
+				"prefere",
+				"SuperContacts/Lib/Preferences.swift"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/git/gocode/gocode.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"geenrate",
+				"func generateSmartFavorites(completion: (()"
+			],
+			[
+				"unlink",
+				"func unlinkDropbox"
+			],
+			[
+				"getDropboxUser",
+				"func getDropboxUser"
+			],
+			[
+				"unlinkDropbox",
+				"func unlinkDropbox"
+			],
+			[
+				"sharedIns",
+				"sharedInstance"
+			]
+		],
+		"width": 942.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 435.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

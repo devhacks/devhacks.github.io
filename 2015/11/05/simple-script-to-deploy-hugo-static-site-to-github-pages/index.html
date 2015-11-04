@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
-    <title>Tags &middot; Dev Hacks</title>
+    <title>Simple script to deploy hugo static site to github pages &middot; Dev Hacks</title>
     <meta name="generator" content="Hugo 0.14" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Ningsuhen Waikhom">
     
-    
-      <link href="http://devhacks.github.io/tags/index.xml" rel="alternate" type="application/rss+xml" title="Dev Hacks" />
-      <link href="http://devhacks.github.io/tags/index.xml" rel="feed" type="application/rss+xml" title="Dev Hacks" />
     
     <link rel="icon" href="http://devhacks.github.io/favicon.ico">
     <link rel="apple-touch-icon" href="http://devhacks.github.io//apple-touch-icon.png" />
@@ -17,12 +14,13 @@
     <link rel="stylesheet" href="http://devhacks.github.io/css/font-awesome.min.css">
     <link rel="stylesheet" href="http://devhacks.github.io/css/monokai.css">
     <link rel="stylesheet" href="http://devhacks.github.io/fancybox/jquery.fancybox.css">
-    <meta property="og:title" content="Tags" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://devhacks.github.io/tags/" />
+    <meta property="og:title" content="Simple script to deploy hugo static site to github pages" />
+<meta property="og:description" content="Hugo is an awesome Static Site generator written in Go and this blog is powered by Hugo. If you are familiar with Jekyll or Octopress, Hugo is a similar tool in Golang but much faster and better. Well, that&rsquo;s something people like to debate but let&rsquo;s come to the point. I was evaluating hugo for the first time and I really liked it. I configured my project and I was ready to deploy it to Github Pages." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://devhacks.github.io/2015/11/05/simple-script-to-deploy-hugo-static-site-to-github-pages" />
 
 
+<meta property="og:updated_time" content="2015-11-05T02:56:41&#43;05:30"/>
 
 
 
@@ -35,15 +33,33 @@
 
     
     
-<meta itemprop="name" content="Tags">
-<meta itemprop="description" content="">
+<meta itemprop="name" content="Simple script to deploy hugo static site to github pages">
+<meta itemprop="description" content="Hugo is an awesome Static Site generator written in Go and this blog is powered by Hugo. If you are familiar with Jekyll or Octopress, Hugo is a similar tool in Golang but much faster and better. Well, that&rsquo;s something people like to debate but let&rsquo;s come to the point. I was evaluating hugo for the first time and I really liked it. I configured my project and I was ready to deploy it to Github Pages.">
 
+
+<meta itemprop="dateModified" content="2015-11-05T02:56:41&#43;05:30" />
+<meta itemprop="wordCount" content="319">
+
+
+
+<meta itemprop="keywords" content="dev-automation,deploy,github-pages,hugo,static-site," />
 
     
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="Simple script to deploy hugo static site to github pages"/>
+<meta name="twitter:description" content="Hugo is an awesome Static Site generator written in Go and this blog is powered by Hugo. If you are familiar with Jekyll or Octopress, Hugo is a similar tool in Golang but much faster and better. Well, that&rsquo;s something people like to debate but let&rsquo;s come to the point. I was evaluating hugo for the first time and I really liked it. I configured my project and I was ready to deploy it to Github Pages."/>
+
+
+
 </head>
 <body>
 <div class="container">
- <header id="header">
+
+<header id="header">
   <div id="header-main" class="header-inner">
     <div class="outer">
       <a href="http://devhacks.github.io/" id="logo"><i class="logo" style="background-image: url('http://devhacks.github.io/css/images/logo.png')"></i><span class="site-title">Dev Hacks</span></a>
@@ -140,8 +156,8 @@
 
 
 <div id="container">
-    <div class="outer">
-        <aside id="profile">
+   <div class="outer">
+    <aside id="profile">
   <div class="inner profile-inner">
     <div class="base-info profile-block">
       <img id="avatar" src="http://devhacks.github.io/css/images/avatar.png">
@@ -235,46 +251,153 @@
 <td><a href="//twitter.com/ningsuhen" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></td>
 
 
-          <td><a href="http://devhacks.github.io/tags/index.xml" target="_blank" title="RSS"><i class="fa fa-rss"></i></a></td>
+          <td><a href="" target="_blank" title="RSS"><i class="fa fa-rss"></i></a></td>
         </tr>
       </table>
     </div>
   </div>
 </aside>
 
-        <section id="main">
-            <section class="layout-wrap">
-                <div class="layout-title">
-                    <span>Tags</span>
-                </div>
-                <div class="layout-wrap-inner list-categories">
-                    <ul class="category-list">
-                         
-                        <li class="category-list-item">
-                            <a class="category-list-link" href="hugo">hugo</a>
-                            <span class="category-list-count">1</span>
-                        </li>
-                        
-                        <li class="category-list-item">
-                            <a class="category-list-link" href="github-pages">github-pages</a>
-                            <span class="category-list-count">1</span>
-                        </li>
-                        
-                        <li class="category-list-item">
-                            <a class="category-list-link" href="deploy">deploy</a>
-                            <span class="category-list-count">1</span>
-                        </li>
-                        
-                        <li class="category-list-item">
-                            <a class="category-list-link" href="static-site">static-site</a>
-                            <span class="category-list-count">1</span>
-                        </li>
-                        
-                    </ul>
-                </div>
-            </section>
-        </section>
-        <aside id="sidebar">
+    <section id="main">
+    <article id="page-undefined" class="article article-type-page" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+            <img src="http://devhacks.github.io/banners/simple-script-to-deploy-hugo-static-site-to-github-pages.png" class="article-banner">
+            
+
+            <header class="article-header">
+    <a href="http://devhacks.github.io/2015/11/05/simple-script-to-deploy-hugo-static-site-to-github-pages">
+    <h1 class="article-title" itemprop="name">
+        Simple script to deploy hugo static site to github pages
+    </h1>
+    </a>
+    <div class="article-meta">
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2015-11-05 02:56:41 &#43;0530 IST" itemprop="datePublished">2015-11-05</time>
+            &middot;
+            319
+            words
+            &middot;
+            2
+            minute read
+        </div>
+        <div class="article-category">
+            
+            <i class="fa fa-folder"></i>
+            <a class="article-category-link" href="http://devhacks.github.io/categories/dev%20automation">dev automation</a>
+            
+        </div>
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                
+
+<p>Hugo is an awesome Static Site generator written in Go and this blog is powered by Hugo. If you are familiar with Jekyll or Octopress, Hugo is a similar tool in Golang but much faster and better. Well, that&rsquo;s something people like to debate but let&rsquo;s come to the point. I was evaluating hugo for the first time and I really liked it. I configured my project and I was ready to deploy it to Github Pages. However, the instructions at <a href="https://gohugo.io/tutorials/github-pages-blog/">https://gohugo.io/tutorials/github-pages-blog/</a> were too much of a pain for me and didn&rsquo;t work at all. So, I developed a small script which is quite simple and works flawlessly although it uses <code>rsync</code>. If you don&rsquo;t have <code>rsync</code>, make sure you have it installed.</p>
+
+<h2 id="step-1-setup-source-project:ef0f63a36bf7a4f863090e489418a282">Step #1 - Setup Source Project</h2>
+
+<p><a href="https://gohugo.io/overview/quickstart/">Setup your source project</a> with</p>
+
+<pre><code>hugo new site /path/to/project
+</code></pre>
+
+<p>and generate your static site with</p>
+
+<pre><code>cd /path/to/project
+hugo -d public
+</code></pre>
+
+<p>If you don&rsquo;t use <code>public</code> as output for generating the static, you have to make changes in the deploy script.</p>
+
+<h2 id="step-2-setup-distribution-folder:ef0f63a36bf7a4f863090e489418a282">Step #2 - Setup Distribution Folder</h2>
+
+<p>It would have been great if we can just push the content from public folder to github but hugo cleans the whole directory including .git files. So, we are going to copy the contents of <code>public</code> folder into a folder called <code>dist</code></p>
+
+<pre><code>mkdir dist
+git remote add [git repo url ] # e.g. git@github.com:devhacks/devhacks.github.io.git
+#git checkout master # since this is an organizational site, we deploy the site to master. If it's a project site, checkout gh-pages instead
+</code></pre>
+
+<h2 id="step-3-download-deploy-script:ef0f63a36bf7a4f863090e489418a282">Step #3 - Download Deploy Script</h2>
+
+<p>You can download the deploy script with</p>
+
+<pre><code>wget https://gist.githubusercontent.com/ningsuhen/b544f17d31160890d774/raw/deploy.sh
+</code></pre>
+
+<p>or create a new file deploy.sh with the following content.
+ <script type="text/javascript" src="http://gist.github.com/b544f17d31160890d774.js"></script></p>
+
+<h2 id="step-4-deploy:ef0f63a36bf7a4f863090e489418a282">Step #4 - Deploy</h2>
+
+<p>Now, you can deploy your static site easily after every change by running</p>
+
+<pre><code>./deploy.sh
+</code></pre>
+
+<p>The script will generate the latest static files and push it to github pages. In short, no more git commands to execute everytime.</p>
+
+            </div>
+            <footer class="article-footer">
+    <a data-url="http://devhacks.github.io/2015/11/05/simple-script-to-deploy-hugo-static-site-to-github-pages" data-id="ef0f63a36bf7a4f863090e489418a282" class="article-share-link">
+        Share
+    </a>
+    
+    
+    <a href="http://devhacks.github.io/2015/11/05/simple-script-to-deploy-hugo-static-site-to-github-pages/#disqus_thread" class="article-comment-link">
+        Comments
+    </a>
+    
+    
+</footer>
+
+        </div>
+
+        
+<nav id="article-nav">
+    
+    <a href="http://devhacks.github.io/2015/11/04/first-post" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">
+          Older
+      </strong>
+      <div class="article-nav-title">first post</div>
+    </a>
+    
+
+    
+</nav>
+
+
+    </article>
+    
+    <section id="comments">
+        <div id="disqus_thread">
+
+            <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'devhacks';
+    var disqus_identifier = 'http:\/\/devhacks.github.io\/2015\/11\/05\/simple-script-to-deploy-hugo-static-site-to-github-pages';
+    var disqus_title = 'Simple script to deploy hugo static site to github pages';
+    var disqus_url = 'http:\/\/devhacks.github.io\/2015\/11\/05\/simple-script-to-deploy-hugo-static-site-to-github-pages';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+        </div>
+    </section>
+    
+
+</section>
+
+    <aside id="sidebar">
     
 <div class="widget-wrap">
     <h3 class="widget-title">
@@ -286,8 +409,8 @@
             <li>
                 
                 <div class="item-thumbnail">
-                    <a href="http://devhacks.github.io/tags/" class="thumbnail">
-                        <span style="background-image:url(http://devhacks.github.io/banners/simple-script-to-deploy-hugo-static-site-to-github-pages.png)" alt="Tags" class="thumbnail-image"></span>
+                    <a href="http://devhacks.github.io/2015/11/05/simple-script-to-deploy-hugo-static-site-to-github-pages" class="thumbnail">
+                        <span style="background-image:url(http://devhacks.github.io/banners/simple-script-to-deploy-hugo-static-site-to-github-pages.png)" alt="Simple script to deploy hugo static site to github pages" class="thumbnail-image"></span>
                     </a>
                 </div>
                 
@@ -410,7 +533,7 @@
     <div id="toTop" class="fa fa-chevron-up"></div>
 </aside>
 
-    </div>
+</div>
 </div>
 
 <footer id="footer">
@@ -460,5 +583,4 @@ MathJax.Hub.Config({
 
 
 </body>
-
 </html>

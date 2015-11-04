@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dev Hacks</title>
-    <link>http://devhacks.github.io/</link>
-    <description>Recent content on Dev Hacks</description>
+    <title>Deploy on Dev Hacks</title>
+    <link>http://devhacks.github.io/tags/deploy/</link>
+    <description>Recent content in Deploy on Dev Hacks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Nov 2015 02:56:41 +0530</lastBuildDate>
-    <atom:link href="http://devhacks.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://devhacks.github.io/tags/deploy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Simple script to deploy hugo static site to github pages</title>
@@ -61,16 +61,6 @@ git remote add [git repo url ] # e.g. git@github.com:devhacks/devhacks.github.io
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;The script will generate the latest static files and push it to github pages. In short, no more git commands to execute everytime.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>first post</title>
-      <link>http://devhacks.github.io/2015/11/04/first-post</link>
-      <pubDate>Wed, 04 Nov 2015 23:56:55 +0530</pubDate>
-      
-      <guid>http://devhacks.github.io/2015/11/04/first-post</guid>
-      <description>&lt;p&gt;##First Post Example&lt;/p&gt;
 </description>
     </item>
     
