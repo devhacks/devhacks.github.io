@@ -48,6 +48,11 @@ theme = "hugo-icarus-theme"
     label  = "Categories"
     link   = "categories/"
 
+[[params.menu]]
+    before = false
+    label  = "About"
+    link   = "about"
+
 # Enter a link for the follow button on the left
 [params.profile]
     follow_button = "https://github.com/ningsuhen"
