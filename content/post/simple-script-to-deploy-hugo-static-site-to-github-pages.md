@@ -1,6 +1,6 @@
 +++
 banner = "banners/simple-script-to-deploy-hugo-static-site-to-github-pages.png"
-categories = ["dev automation"]
+categories = ["Dev Automation"]
 date = "2015-11-05T02:56:41+05:30"
 menu = ""
 tags = ["hugo","github pages","deploy","static site"]
