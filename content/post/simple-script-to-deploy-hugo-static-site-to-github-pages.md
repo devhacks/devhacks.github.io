@@ -47,6 +47,19 @@ Now, you can deploy your static site easily after every change by running
 ```
 ./deploy.sh
 ```
-The script will generate the latest static files and push it to github pages. In short, no more git commands to execute everytime.
+The script will generate the latest static files and push it to github pages. In short, no more multiple git commands to execute everytime.
+
+Bonus - Integrate with git pre-push
+----
+You can even call the deploy script from git pre-push hook on the source branch. With this, you don't have to run the deploy script everytime. All you have to do is commit and push the source project.
+
+File *`.git/hooks/pre-push`*
+```
+#!/bin/sh
+
+./deploy.sh
+
+```
+
 
 
