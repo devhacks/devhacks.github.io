@@ -56,6 +56,7 @@ theme = "hugo-icarus-theme"
 # Enter a link for the follow button on the left
 [params.profile]
     follow_button = "https://github.com/ningsuhen"
+    avatar =  "https://s.gravatar.com/avatar/1aa315e981dd1bc800ee70a0757ab0d5?s=120"
 
 
 [params.social]
