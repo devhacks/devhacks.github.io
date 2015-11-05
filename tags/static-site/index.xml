@@ -60,7 +60,19 @@ git remote add [git repo url ] # e.g. git@github.com:devhacks/devhacks.github.io
 &lt;pre&gt;&lt;code&gt;./deploy.sh
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;The script will generate the latest static files and push it to github pages. In short, no more git commands to execute everytime.&lt;/p&gt;
+&lt;p&gt;The script will generate the latest static files and push it to github pages. In short, no more multiple git commands to execute everytime.&lt;/p&gt;
+
+&lt;h2 id=&#34;bonus-integrate-with-git-pre-push:ef0f63a36bf7a4f863090e489418a282&#34;&gt;Bonus - Integrate with git pre-push&lt;/h2&gt;
+
+&lt;p&gt;You can even call the deploy script from git pre-push hook on the source branch. With this, you don&amp;rsquo;t have to run the deploy script everytime. All you have to do is commit and push the source project.&lt;/p&gt;
+
+&lt;p&gt;File &lt;em&gt;&lt;code&gt;.git/hooks/pre-push&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;#!/bin/sh
+
+./deploy.sh
+
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     

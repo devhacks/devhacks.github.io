@@ -38,7 +38,7 @@
 
 
 <meta itemprop="dateModified" content="2015-11-05T02:56:41&#43;05:30" />
-<meta itemprop="wordCount" content="319">
+<meta itemprop="wordCount" content="368">
 
 
 
@@ -276,7 +276,7 @@
             <i class="fa fa-calendar"></i>
             <time datetime="2015-11-05 02:56:41 &#43;0530 IST" itemprop="datePublished">2015-11-05</time>
             &middot;
-            319
+            368
             words
             &middot;
             2
@@ -337,7 +337,19 @@ git remote add [git repo url ] # e.g. git@github.com:devhacks/devhacks.github.io
 <pre><code>./deploy.sh
 </code></pre>
 
-<p>The script will generate the latest static files and push it to github pages. In short, no more git commands to execute everytime.</p>
+<p>The script will generate the latest static files and push it to github pages. In short, no more multiple git commands to execute everytime.</p>
+
+<h2 id="bonus-integrate-with-git-pre-push:ef0f63a36bf7a4f863090e489418a282">Bonus - Integrate with git pre-push</h2>
+
+<p>You can even call the deploy script from git pre-push hook on the source branch. With this, you don&rsquo;t have to run the deploy script everytime. All you have to do is commit and push the source project.</p>
+
+<p>File <em><code>.git/hooks/pre-push</code></em></p>
+
+<pre><code>#!/bin/sh
+
+./deploy.sh
+
+</code></pre>
 
             </div>
             <footer class="article-footer">
