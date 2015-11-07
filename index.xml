@@ -6,8 +6,65 @@
     <description>Recent content on Dev Hacks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2015 02:56:41 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2015 22:01:46 +0530</lastBuildDate>
     <atom:link href="http://devhacks.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Important numbers every programmer should know</title>
+      <link>http://devhacks.github.io/2015/11/06/important-numbers-every-programmer-should-know</link>
+      <pubDate>Fri, 06 Nov 2015 22:01:46 +0530</pubDate>
+      
+      <guid>http://devhacks.github.io/2015/11/06/important-numbers-every-programmer-should-know</guid>
+      <description>
+
+&lt;p&gt;These are some of the most important numbers that every programmer should know. The second(Power of 2s) and 3rd(time units in terms of seconds) are quite obvious but I like to keep them in place so that I can remember them quickly. However, the most important one is Jeff Dean&amp;rsquo;s numbers. Here we go:&lt;/p&gt;
+
+&lt;h1 id=&#34;jeff-dean-s-numbers:2be8ced1001cf79eb4e6debe7f7a4815&#34;&gt;Jeff Dean&amp;rsquo;s Numbers&lt;/h1&gt;
+
+&lt;p&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;http://gist.github.com/2f2ffb2b82c372cdd079.js&#34;&gt;&lt;/script&gt;
+Credits - &lt;a href=&#34;https://gist.github.com/jboner/2841832&#34;&gt;https://gist.github.com/jboner/2841832&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;base-2-exponents:2be8ced1001cf79eb4e6debe7f7a4815&#34;&gt;Base 2 Exponents&lt;/h1&gt;
+
+&lt;p&gt;&lt;code&gt;$
+\begin{aligned}
+2^0     &amp;amp;=             1\\
+2^1     &amp;amp;=             2\\
+2^2     &amp;amp;=             4\\
+2^3     &amp;amp;=             8\\
+2^4     &amp;amp;=            16\\
+2^5     &amp;amp;=            32\\
+2^6     &amp;amp;=            64\\
+2^7     &amp;amp;=           128\\
+2^8     &amp;amp;=           256\\
+2^9     &amp;amp;=           512\\
+2^{10}  &amp;amp;=          1024\\
+2^{11}  &amp;amp;=          2048\\
+2^{12}  &amp;amp;=          4096\\
+2^{13}  &amp;amp;=          8192\\
+2^{20}  &amp;amp;=     1,048,576\\
+2^{30}  &amp;amp;= 1,073,741,824\\
+\end{aligned}
+$&lt;/code&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;time-units-in-seconds:2be8ced1001cf79eb4e6debe7f7a4815&#34;&gt;Time Units in seconds&lt;/h1&gt;
+
+&lt;p&gt;&lt;code&gt;$
+\begin{aligned}
+1 &amp;amp; ns&amp;amp;      &amp;amp;=           10^{-9}\\
+1 &amp;amp; us&amp;amp;      &amp;amp;=           10^{-6}\\
+1 &amp;amp; ms&amp;amp;      &amp;amp;=           10^{-3}\\
+1 &amp;amp; sec&amp;amp;     &amp;amp;=             1\\
+1 &amp;amp; min&amp;amp;     &amp;amp;=            60\\
+1 &amp;amp; hour&amp;amp;    &amp;amp;=          3600\\
+1 &amp;amp; day&amp;amp;     &amp;amp;=         86400\\
+1 &amp;amp; week&amp;amp;    &amp;amp;=       604,800 ~ 6 * 10^5\\
+1 &amp;amp; month&amp;amp;   &amp;amp;=    18,144,000\\
+1 &amp;amp; year&amp;amp;    &amp;amp;=   217,728,000\\
+\end{aligned}
+$&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Simple script to deploy hugo static site to github pages</title>
