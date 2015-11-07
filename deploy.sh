@@ -10,7 +10,7 @@ if [ "$message" == "" ]; then
 fi
 
 #generate static site into public & copy files into dist folder
-hugo -d public
+/usr/bin/env hugo -d public
 rsync -avh --delete public/* dist/
 
 # push the files into github pages
