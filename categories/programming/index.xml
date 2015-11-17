@@ -19,12 +19,12 @@
 
 &lt;p&gt;These are some of the most important numbers that every programmer should know. The second(Power of 2s) and 3rd(time units in terms of seconds) are quite obvious but I like to keep them in place so that I can remember them quickly. However, the most important one is Jeff Dean&amp;rsquo;s numbers. Here we go:&lt;/p&gt;
 
-&lt;h1 id=&#34;jeff-dean-s-numbers:2be8ced1001cf79eb4e6debe7f7a4815&#34;&gt;Jeff Dean&amp;rsquo;s Numbers&lt;/h1&gt;
+&lt;h2 id=&#34;jeff-dean-s-numbers:2be8ced1001cf79eb4e6debe7f7a4815&#34;&gt;Jeff Dean&amp;rsquo;s Numbers&lt;/h2&gt;
 
 &lt;p&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;http://gist.github.com/2f2ffb2b82c372cdd079.js&#34;&gt;&lt;/script&gt;
 Credits - &lt;a href=&#34;https://gist.github.com/jboner/2841832&#34;&gt;https://gist.github.com/jboner/2841832&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;base-2-exponents:2be8ced1001cf79eb4e6debe7f7a4815&#34;&gt;Base 2 Exponents&lt;/h1&gt;
+&lt;h2 id=&#34;base-2-exponents:2be8ced1001cf79eb4e6debe7f7a4815&#34;&gt;Base 2 Exponents&lt;/h2&gt;
 
 &lt;p&gt;&lt;code&gt;$
 \begin{aligned}
@@ -47,7 +47,7 @@ Credits - &lt;a href=&#34;https://gist.github.com/jboner/2841832&#34;&gt;https:/
 \end{aligned}
 $&lt;/code&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;time-units-in-seconds:2be8ced1001cf79eb4e6debe7f7a4815&#34;&gt;Time Units in seconds&lt;/h1&gt;
+&lt;h2 id=&#34;time-units-in-seconds:2be8ced1001cf79eb4e6debe7f7a4815&#34;&gt;Time Units in seconds&lt;/h2&gt;
 
 &lt;p&gt;&lt;code&gt;$
 \begin{aligned}
