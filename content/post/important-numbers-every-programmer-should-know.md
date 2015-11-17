@@ -9,14 +9,12 @@ title = "Important numbers every programmer should know"
 +++
 These are some of the most important numbers that every programmer should know. The second(Power of 2s) and 3rd(time units in terms of seconds) are quite obvious but I like to keep them in place so that I can remember them quickly. However, the most important one is Jeff Dean's numbers. Here we go:<!--more-->
 
-Jeff Dean's Numbers
-====
+## Jeff Dean's Numbers
 
 {{<gist 2f2ffb2b82c372cdd079>}}
 Credits - https://gist.github.com/jboner/2841832
 
-Base 2 Exponents
-====
+## Base 2 Exponents
 `$
 \begin{aligned}
 2^0     &=             1\\
@@ -39,8 +37,7 @@ Base 2 Exponents
 $`
 
 
-Time Units in seconds
-====
+## Time Units in seconds
 `$
 \begin{aligned}
 1 & ns&      &=           10^{-9}\\

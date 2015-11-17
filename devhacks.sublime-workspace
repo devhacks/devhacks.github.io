@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"1",
+				"1ns"
+			],
+			[
 				"Con",
 				"ConsoleProxy〔variable〕"
 			],
@@ -231,38 +235,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "start",
-			"settings":
-			{
-				"buffer_size": 91,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "content/post/first-post.md",
-			"settings":
-			{
-				"buffer_size": 134,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "devhacks.sublime-project",
-			"settings":
-			{
-				"buffer_size": 158,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config.toml",
-			"settings":
-			{
-				"buffer_size": 2523,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -299,22 +271,10 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "",
+		"height": 107.0,
+		"last_filter": "push",
 		"selected_items":
 		[
-			[
-				"pus",
-				"Git: Push Current Branch"
-			],
-			[
-				"qui",
-				"Git: Quick Commit"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
 			[
 				"push",
 				"Git: Push Current Branch"
@@ -324,16 +284,28 @@
 				"Git: Quick Commit"
 			],
 			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
 				"qiu",
 				"Git: Quick Commit"
 			],
 			[
 				"qu",
 				"Git: Quick Commit"
-			],
-			[
-				"add",
-				"Git: Add..."
 			],
 			[
 				"remoe",
@@ -521,37 +493,66 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ningsuhen/git/devhacks.github.io",
-		"/Users/ningsuhen/git/devhacks.github.io/content",
-		"/Users/ningsuhen/git/devhacks.github.io/content/post",
-		"/Users/ningsuhen/git/devhacks.github.io/data"
+		"/Users/ningsuhen/Downloads/CMP462 HW01 Data"
 	],
 	"file_history":
 	[
-		"/Users/ningsuhen/git/devhacks.github.io/content/about.md",
-		"/Users/ningsuhen/git/devhacks.github.io/layouts/.keep",
-		"/Users/ningsuhen/git/devhacks.github.io/start",
 		"/Users/ningsuhen/git/devhacks.github.io/deploy.sh",
-		"/Users/ningsuhen/git/devhacks.github.io/content/post/first-post.md",
-		"/Users/ningsuhen/git/devhacks.github.io/.gitmodules",
+		"/Users/ningsuhen/git/hatchcube/drywall/app.js",
+		"/Users/ningsuhen/git/boot2docker-vagrant-box/vagrantfile.tpl",
+		"/Users/ningsuhen/git/montyHall/montyhall.js",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/static/css/images/logo.png",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/static/css/images/thumb-default-small.png",
+		"/Users/ningsuhen/git/devhacks.github.io/content/post/simple-script-to-deploy-hugo-static-site-to-github-pages.md",
+		"/Users/ningsuhen/git/devhacks.github.io/content/post/important-numbers-every-programmer-should-know.md",
 		"/Users/ningsuhen/git/devhacks.github.io/.gitignore",
+		"/Users/ningsuhen/git/devhacks.github.io/layouts/shortcodes/gist.html",
+		"/Users/ningsuhen/git/devhacks.github.io/layouts/shortcodes/mathjax",
+		"/Users/ningsuhen/Downloads/android-client/src/main/java/io/swagger/client/api/EstimatesApi.java",
+		"/Users/ningsuhen/Downloads/typescript-angular-client/API/Client/EstimatesApi.ts",
+		"/Users/ningsuhen/Downloads/spring-mvc-server/src/main/java/io/swagger/api/EstimatesApi.java",
+		"/Users/ningsuhen/Downloads/jaxrs-server/src/gen/java/io/swagger/api/EstimatesApi.java",
+		"/Users/ningsuhen/Downloads/nodejs-server/controllers/Estimates.js",
+		"/Users/ningsuhen/git/devhacks.github.io/start",
+		"/Users/ningsuhen/git/devhacks.github.io/config.toml",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/profile.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/_default/single.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/single_article.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/article_header.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/widgets/recent_articles.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/exampleSite/static/banners/placeholder.png",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/images/screenshot.png",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/images/tn.png",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/widgets/categories.html",
+		"/Users/ningsuhen/git/devhacks.github.io/content/about.md",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/article_footer.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/sidebar.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/social.html",
+		"/Users/ningsuhen/git/devhacks.github.io/content/post/first-post.md",
+		"/Users/ningsuhen/git/devhacks.github.io/devhacks.sublime-project",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/_default/summary.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/_default/terms.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/_default/list.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/prev_next_post.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/pagination.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/header.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/head.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/footer_js.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/footer.html",
+		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/article_list.html",
+		"/Users/ningsuhen/git/devhacks.github.io/layouts/.keep",
+		"/Users/ningsuhen/git/devhacks.github.io/.gitmodules",
 		"/Users/ningsuhen/git/devhacks.github.io/public/.keep",
 		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/static/font-awesome/css/font-awesome.min.css",
 		"/Users/ningsuhen/git/devhacks.github.io/static/.keep",
-		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/social.html",
-		"/Users/ningsuhen/git/devhacks.github.io/config.toml",
 		"/Users/ningsuhen/git/devhacks.github.io/data/l10n.toml",
 		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/theme.toml",
-		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/profile.html",
 		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/exampleSite/config.toml",
-		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/single_article.html",
 		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/README.md",
-		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/partials/sidebar.html",
 		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/layouts/index.html",
 		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/LICENSE.md",
 		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/CHANGELOG.md",
 		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/exampleSite/data/l10n.toml",
-		"/Users/ningsuhen/git/devhacks.github.io/themes/hugo-icarus-theme/exampleSite/static/banners/placeholder.png",
 		"/Users/ningsuhen/git/clrs/build/views/about.erb",
 		"/Users/ningsuhen/git/clrs/about.html",
 		"/Users/ningsuhen/git/devhacks.github.io/themes/icarus/layouts/partials/article_header.html",
@@ -623,39 +624,7 @@
 		"/var/folders/p7/2gcg473d4q5221kn2_z6sw7w0000gn/T/sublime-sftp-browse-1439127653/Rundeck Proxylists.me/var/rundeck/projects/Proxylists.me/etc/resources.yaml",
 		"/Users/ningsuhen/git/loopback-component-push/lib/push-connector.js",
 		"/Users/ningsuhen/git/loopback-component-push/lib/push-manager.js",
-		"/Users/ningsuhen/Desktop/EQGDHIHD8ZEDI.2015-08-06-06.47def336",
-		"/Users/ningsuhen/git/walkon/common/models/movement.js",
-		"/Users/ningsuhen/Desktop/swagger.json",
-		"/Users/ningsuhen/Documents/KloudBlocks/Features.md",
-		"/Users/ningsuhen/Downloads/var/log/nginx/access.log",
-		"/Users/ningsuhen/Downloads/var/log/nginx/rotated/access.log1437642061",
-		"/Users/ningsuhen/Downloads/var/log/nginx/rotated/access.log1437638461",
-		"/Users/ningsuhen/Downloads/var/log/nginx/rotated/access.log1437634861",
-		"/Users/ningsuhen/Downloads/var/log/nginx/rotated/access.log1437631261",
-		"/Users/ningsuhen/Downloads/var/log/nginx/rotated/access.log1437627661",
-		"/Applications/Popcorn-Time.app/Contents/Resources/app.nw/src/app/settings.js",
-		"/Users/ningsuhen/stage/server.js",
-		"/Users/ningsuhen/test.js",
-		"/Users/ningsuhen/temp.dat",
-		"/Users/ningsuhen/git/gocode/src/github.com/ningsuhen/gocode/main.go",
-		"/Users/ningsuhen/git/better-faster-elastic-beanstalk/40config_deploy.sh",
-		"/Users/ningsuhen/git/better-faster-elastic-beanstalk/05update_docker.sh",
-		"/Users/ningsuhen/git/better-faster-elastic-beanstalk/01app_build.sh",
-		"/Users/ningsuhen/git/better-faster-elastic-beanstalk/20clean.sh",
-		"/Users/ningsuhen/git/better-faster-elastic-beanstalk/10stop.sh",
-		"/Users/ningsuhen/git/better-faster-elastic-beanstalk/46update_geolitecity.sh",
-		"/Users/ningsuhen/git/myapp/hello.go",
-		"/Users/ningsuhen/Desktop/-.js",
-		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
-		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
-		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
-		"/Users/ningsuhen/git/gocode/myproject.sublime-project",
-		"/Users/ningsuhen/git/gocode/gocode.sublime-project",
-		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-build-old",
-		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-commands",
-		"/Users/ningsuhen/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-build"
+		"/Users/ningsuhen/Desktop/EQGDHIHD8ZEDI.2015-08-06-06.47def336"
 	],
 	"find":
 	{
@@ -701,6 +670,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"javascript",
+			"'",
+			"name:",
+			"page:",
+			"email:",
+			"\\n",
+			"1 ",
+			"<sup>",
+			"<br/>",
+			"</sup><br/>",
+			"=",
+			"2^",
+			"   =",
+			"draft",
 			".Site.Social",
 			"master",
 			"fa-stack",
@@ -814,21 +797,7 @@
 			"userdata",
 			"NewPhoneBook",
 			"SuperContacts",
-			"RemoveGlo",
-			"CleanGloss",
-			"Clean",
-			"MergeGloss",
-			"IconSet.",
-			"showSearchSavedAlert",
-			"saved",
-			"[NSValue valueWithCGRect:(CGRect){",
-			"@{",
-			"@\"",
-			"SCABManager.sharedInstance",
-			"generateSmartGroups",
-			"split",
-			"public_profile",
-			"convertToDictionary"
+			"RemoveGlo"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -836,6 +805,18 @@
 		"regex": true,
 		"replace_history":
 		[
+			"\"",
+			"\"name\":",
+			"\"page\":",
+			"\"email\":",
+			"', :last_synced => last_synced, :refresh_id => 0)\nShop.create!(:url => '",
+			"1 &",
+			"^{",
+			"\\\\",
+			"}\\\\",
+			"&=",
+			"2<sup>",
+			"</sup>   =",
 			".Site.Params.social",
 			".Site.Params.Social",
 			"lib",
@@ -890,157 +871,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "start",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 91,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								90,
-								90
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"function_name_status_row": 0,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "content/post/first-post.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 134,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"function_name_status_row": 0,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "devhacks.sublime-project",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 158,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"function_name_status_row": 0,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "config.toml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2523,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1254,
-								1259
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"function_name_status_row": 51,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/TOML/TOML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 342.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1136,6 +968,38 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"depl",
+				"deploy.sh"
+			],
+			[
+				"sing",
+				"themes/hugo-icarus-theme/layouts/partials/single_article.html"
+			],
+			[
+				"recent",
+				"themes/hugo-icarus-theme/layouts/partials/widgets/recent_articles.html"
+			],
+			[
+				"artic",
+				"themes/hugo-icarus-theme/layouts/partials/article_header.html"
+			],
+			[
+				"abou",
+				"content/about.md"
+			],
+			[
+				"simp",
+				"content/post/simple-deploy-hugo-static-site-to-github-pages.md"
+			],
+			[
+				"abo",
+				"content/about.md"
+			],
+			[
+				"fi",
+				"content/post/first-post.md"
+			],
 			[
 				"first",
 				"devhacks.github.io/content/post/first-post.md"
@@ -1525,7 +1389,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 435.0,
+	"side_bar_width": 247.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

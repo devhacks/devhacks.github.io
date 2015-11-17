@@ -1,6 +1,16 @@
 {
-  "folders": [{
-    "path": ".",
-    "folder_exclude_patterns": ["dist", "public"]
-  }]
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"dist",
+				"public"
+			],
+			"path": "."
+		},
+		{
+			"path": "/Users/ningsuhen/Downloads/CMP462 HW01 Data"
+		}
+	]
 }
