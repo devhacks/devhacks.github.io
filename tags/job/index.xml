@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dev Hacks</title>
-    <link>http://devhacks.github.io/</link>
-    <description>Recent content on Dev Hacks</description>
+    <title>Job on Dev Hacks</title>
+    <link>http://devhacks.github.io/tags/job/</link>
+    <description>Recent content in Job on Dev Hacks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Jan 2016 22:01:46 +0530</lastBuildDate>
-    <atom:link href="http://devhacks.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://devhacks.github.io/tags/job/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Freshers&#39; guide to land their dream job in java</title>
@@ -133,130 +133,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Well, that&amp;rsquo;s it. Let me know in comments if there&amp;rsquo;s anything else you would suggest.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Important numbers every programmer should know</title>
-      <link>http://devhacks.github.io/2015/11/06/important-numbers-every-programmer-should-know</link>
-      <pubDate>Fri, 06 Nov 2015 22:01:46 +0530</pubDate>
-      
-      <guid>http://devhacks.github.io/2015/11/06/important-numbers-every-programmer-should-know</guid>
-      <description>
-
-&lt;p&gt;These are some of the most important numbers that every programmer should know. The second(Power of 2s) and 3rd(time units in terms of seconds) are quite obvious but I like to keep them in place so that I can remember them quickly. However, the most important one is Jeff Dean&amp;rsquo;s numbers. Here we go:&lt;/p&gt;
-
-&lt;h2 id=&#34;jeff-dean-s-numbers:2be8ced1001cf79eb4e6debe7f7a4815&#34;&gt;Jeff Dean&amp;rsquo;s Numbers&lt;/h2&gt;
-
-&lt;p&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;http://gist.github.com/2f2ffb2b82c372cdd079.js&#34;&gt;&lt;/script&gt;
-Credits - &lt;a href=&#34;https://gist.github.com/jboner/2841832&#34;&gt;https://gist.github.com/jboner/2841832&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;base-2-exponents:2be8ced1001cf79eb4e6debe7f7a4815&#34;&gt;Base 2 Exponents&lt;/h2&gt;
-
-&lt;p&gt;&lt;code&gt;$
-\begin{aligned}
-2^0     &amp;amp;=             1\\
-2^1     &amp;amp;=             2\\
-2^2     &amp;amp;=             4\\
-2^3     &amp;amp;=             8\\
-2^4     &amp;amp;=            16\\
-2^5     &amp;amp;=            32\\
-2^6     &amp;amp;=            64\\
-2^7     &amp;amp;=           128\\
-2^8     &amp;amp;=           256\\
-2^9     &amp;amp;=           512\\
-2^{10}  &amp;amp;=          1024\\
-2^{11}  &amp;amp;=          2048\\
-2^{12}  &amp;amp;=          4096\\
-2^{13}  &amp;amp;=          8192\\
-2^{20}  &amp;amp;=     1,048,576\\
-2^{30}  &amp;amp;= 1,073,741,824\\
-\end{aligned}
-$&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;time-units-in-seconds:2be8ced1001cf79eb4e6debe7f7a4815&#34;&gt;Time Units in seconds&lt;/h2&gt;
-
-&lt;p&gt;&lt;code&gt;$
-\begin{aligned}
-1 &amp;amp; ns&amp;amp;      &amp;amp;=           10^{-9}\\
-1 &amp;amp; us&amp;amp;      &amp;amp;=           10^{-6}\\
-1 &amp;amp; ms&amp;amp;      &amp;amp;=           10^{-3}\\
-1 &amp;amp; sec&amp;amp;     &amp;amp;=             1\\
-1 &amp;amp; min&amp;amp;     &amp;amp;=            60\\
-1 &amp;amp; hour&amp;amp;    &amp;amp;=          3600\\
-1 &amp;amp; day&amp;amp;     &amp;amp;=         86400\\
-1 &amp;amp; week&amp;amp;    &amp;amp;=       604,800 ~ 6 * 10^5\\
-1 &amp;amp; month&amp;amp;   &amp;amp;=    18,144,000\\
-1 &amp;amp; year&amp;amp;    &amp;amp;=   217,728,000\\
-\end{aligned}
-$&lt;/code&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Simple script to deploy hugo static site to github pages</title>
-      <link>http://devhacks.github.io/2015/11/05/simple-script-to-deploy-hugo-static-site-to-github-pages</link>
-      <pubDate>Thu, 05 Nov 2015 02:56:41 +0530</pubDate>
-      
-      <guid>http://devhacks.github.io/2015/11/05/simple-script-to-deploy-hugo-static-site-to-github-pages</guid>
-      <description>
-
-&lt;p&gt;Hugo is an awesome Static Site generator written in Go and this blog is powered by Hugo. If you are familiar with Jekyll or Octopress, Hugo is a similar tool in Golang but much faster and better. Well, that&amp;rsquo;s something people like to debate but let&amp;rsquo;s come to the point. I was evaluating hugo for the first time and I really liked it. I configured my project and I was ready to deploy it to Github Pages. However, the instructions at &lt;a href=&#34;https://gohugo.io/tutorials/github-pages-blog/&#34;&gt;https://gohugo.io/tutorials/github-pages-blog/&lt;/a&gt; were too much of a pain for me and didn&amp;rsquo;t work at all. So, I developed a small script which is quite simple and works flawlessly although it uses &lt;code&gt;rsync&lt;/code&gt;. If you don&amp;rsquo;t have &lt;code&gt;rsync&lt;/code&gt;, make sure you have it installed.&lt;/p&gt;
-
-&lt;h2 id=&#34;step-1-setup-source-project:ef0f63a36bf7a4f863090e489418a282&#34;&gt;Step #1 - Setup Source Project&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gohugo.io/overview/quickstart/&#34;&gt;Setup your source project&lt;/a&gt; with&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new site /path/to/project
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;and generate your static site with&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;cd /path/to/project
-hugo -d public
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;If you don&amp;rsquo;t use &lt;code&gt;public&lt;/code&gt; as output for generating the static, you have to make changes in the deploy script.&lt;/p&gt;
-
-&lt;h2 id=&#34;step-2-setup-distribution-folder:ef0f63a36bf7a4f863090e489418a282&#34;&gt;Step #2 - Setup Distribution Folder&lt;/h2&gt;
-
-&lt;p&gt;It would have been great if we can just push the content from public folder to github but hugo cleans the whole directory including .git files. So, we are going to copy the contents of &lt;code&gt;public&lt;/code&gt; folder into a folder called &lt;code&gt;dist&lt;/code&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;mkdir dist
-git remote add [git repo url ] # e.g. git@github.com:devhacks/devhacks.github.io.git
-#git checkout master # since this is an organizational site, we deploy the site to master. If it&#39;s a project site, checkout gh-pages instead
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;step-3-download-deploy-script:ef0f63a36bf7a4f863090e489418a282&#34;&gt;Step #3 - Download Deploy Script&lt;/h2&gt;
-
-&lt;p&gt;You can download the deploy script with&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;wget https://gist.githubusercontent.com/ningsuhen/b544f17d31160890d774/raw/deploy.sh
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;or create a new file deploy.sh with the following content.
- &lt;script type=&#34;text/javascript&#34; src=&#34;http://gist.github.com/b544f17d31160890d774.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;step-4-deploy:ef0f63a36bf7a4f863090e489418a282&#34;&gt;Step #4 - Deploy&lt;/h2&gt;
-
-&lt;p&gt;Now, you can deploy your static site easily after every change by running&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;./deploy.sh
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The script will generate the latest static files and push it to github pages. In short, no more multiple git commands to execute everytime.&lt;/p&gt;
-
-&lt;h2 id=&#34;bonus-integrate-with-git-pre-push:ef0f63a36bf7a4f863090e489418a282&#34;&gt;Bonus - Integrate with git pre-push&lt;/h2&gt;
-
-&lt;p&gt;You can even call the deploy script from git pre-push hook on the source branch. With this, you don&amp;rsquo;t have to run the deploy script everytime. All you have to do is commit and push the source project.&lt;/p&gt;
-
-&lt;p&gt;File &lt;em&gt;&lt;code&gt;.git/hooks/pre-push&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;#!/bin/sh
-
-./deploy.sh
-
-&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
