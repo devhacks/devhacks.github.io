@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Dev Hacks</title>
+    <link>https://devhacks.github.io/categories/</link>
+    <description>Recent content in Categories on Dev Hacks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Nov 2015 22:01:46 +0530</lastBuildDate><atom:link href="https://devhacks.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>programming</title>
+      <link>https://devhacks.github.io/categories/programming/</link>
+      <pubDate>Fri, 06 Nov 2015 22:01:46 +0530</pubDate>
+      
+      <guid>https://devhacks.github.io/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dev Automation</title>
+      <link>https://devhacks.github.io/categories/dev-automation/</link>
+      <pubDate>Thu, 05 Nov 2015 02:56:41 +0530</pubDate>
+      
+      <guid>https://devhacks.github.io/categories/dev-automation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
