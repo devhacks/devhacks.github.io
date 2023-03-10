@@ -59,7 +59,7 @@ custom_js  = []
 [[params.menu]]
     before = false
     label  = "About"
-    link   = "about"
+    link   = "about/"
 
 # Enter a link for the follow button on the left
 [params.profile]
