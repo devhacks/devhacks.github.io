@@ -25,5 +25,14 @@
       <description>Hugo is an awesome Static Site generator written in Go and this blog is powered by Hugo. If you are familiar with Jekyll or Octopress, Hugo is a similar tool in Golang but much faster and better. Well, that&amp;rsquo;s something people like to debate but let&amp;rsquo;s come to the point. I was evaluating hugo for the first time and I really liked it. I configured my project and I was ready to deploy it to Github Pages.</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://devhacks.github.io/about/</link>
+      <pubDate>Wed, 04 Nov 2015 23:38:25 +0530</pubDate>
+      
+      <guid>https://devhacks.github.io/about/</guid>
+      <description>As a full-stack generalist, I have worked on several web technologies and programming languages. I love evaluating new technologies from time to time and keep myself updated in doing so. To know more about me, visit my portfolio and social links.</description>
+    </item>
+    
   </channel>
 </rss>
