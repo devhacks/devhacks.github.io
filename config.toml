@@ -6,7 +6,11 @@ title = "Dev Hacks"
 disqusShortname = "devhacks"
 # Define the number of posts per site
 paginate = 10
-theme = "hugo-icarus-theme"
+footnotereturnlinkcontents = "↩"
+theme = "hugo-icarus"
+
+themesDir = "./themes"
+
 
 
 [permalinks]
@@ -19,6 +23,7 @@ theme = "hugo-icarus-theme"
     bio = "Blogger - Programmer - Gopher"
     location = "Earth"
     site_description = ""
+    avatar =  "https://s.gravatar.com/avatar/1aa315e981dd1bc800ee70a0757ab0d5?s=120"
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
 
     # Enable Google Analytics by entering your tracking code
@@ -26,6 +31,9 @@ theme = "hugo-icarus-theme"
 
     # Format dates with Go's time formating
     date_format = "2006-01-02"
+
+custom_css = []
+custom_js  = []
 
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts you've the option the
