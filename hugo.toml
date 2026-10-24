@@ -1,0 +1,53 @@
+baseURL = "https://devhacks.github.io/"
+locale = "en-US"
+title = "Dev Hacks"
+theme = "PaperMod"
+disqusShortname = "devhacks"
+pagerSize = 10
+enableRobotsTXT = true
+
+[permalinks.page]
+  post = "/:year/:month/:day/:slug"
+
+[markup.goldmark.extensions.passthrough]
+  enable = true
+  [markup.goldmark.extensions.passthrough.delimiters]
+    block = [["$$", "$$"], ["\\[", "\\]"]]
+    inline = [["\\(", "\\)"]]
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.highlight]
+  noClasses = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  author = "Ning Waikhom"
+  description = "Dev hacks: programming notes and automation."
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  math = true
+  [params.homeInfoParams]
+    Title = "Dev Hacks"
+    Content = "Blogger - Programmer - Gopher"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/devhacks"
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/post/"
+    weight = 10
+  [[menu.main]]
+    name = "AI Economy"
+    url = "/ai-economy/"
+    weight = 20
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 30

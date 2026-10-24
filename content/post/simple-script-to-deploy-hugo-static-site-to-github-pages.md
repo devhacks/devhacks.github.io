@@ -1,5 +1,5 @@
 +++
-banner = "banners/simple-script-to-deploy-hugo-static-site-to-github-pages.png"
+cover = { image = "banners/simple-script-to-deploy-hugo-static-site-to-github-pages.png", relative = false }
 categories = ["Dev Automation"]
 date = "2015-11-05T02:56:41+05:30"
 menu = ""

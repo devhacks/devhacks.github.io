@@ -1,5 +1,5 @@
 +++
-banner = "banners/important-numbers-every-programmer-should-know.png"
+cover = { image = "banners/important-numbers-every-programmer-should-know.png", relative = false }
 categories = ["programming"]
 date = "2015-11-06T22:01:46+05:30"
 menu = ""
