@@ -44,10 +44,6 @@ enableRobotsTXT = true
     url = "/post/"
     weight = 10
   [[menu.main]]
-    name = "AI Economy"
-    url = "/ai-economy/"
-    weight = 20
-  [[menu.main]]
     name = "About"
     url = "/about/"
     weight = 30
